@@ -1,7 +1,7 @@
 /*
   [ SETTINGS BOT ]
 */
-global.owner = ['2347019170750']
+global.owner = ['2348024322741']
 global.ownername = "Mexican Official"
 global.connect = true // False = QrCode
 global.antilink = true
